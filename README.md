@@ -17,3 +17,11 @@ Added permission to my lambda function so that i can configure it to my SQS
 
 I did not understand the lambda code that should be going in here.
 <img width="3274" height="2048" alt="image" src="https://github.com/user-attachments/assets/66e7771c-d067-48ad-90eb-a7007580243c" />
+
+I tried to create one using Gemini Bot
+<img width="3274" height="2048" alt="image" src="https://github.com/user-attachments/assets/947df1f0-78bb-456d-8202-bf33fb661e9f" />
+
+At the end it gave me this warning about this wiping out my account therefore I stopped at this point
+<img width="1632" height="978" alt="image" src="https://github.com/user-attachments/assets/04f023a4-85d8-4ae2-b0f1-c809eced3502" />
+
+And I have booked a 1-1 session to understand and clear my doubts for this. 
